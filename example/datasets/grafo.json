@@ -1,0 +1,4216 @@
+{
+	'nodes': [{
+		'id': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.0.0',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.1.0',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-catastro-consumption: 1.1.0',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.1.0',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.2.0',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-catastro-consumption: 1.2.0',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-authorization: 1.0.0',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-multiauth: 1.0.0',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-persistence: 1.3.1',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-mod-ayudas: 2.4.0',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.3.0',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-catastro-consumption: 1.3.0',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-pin: 1.0.0',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-advanced-grid: 1.0.0',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-campos: 1.0.0',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-ws-consumption: 1.1.1',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-authentication-lite: 1.0.0',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.2.1',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.3.1',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-catastro-consumption: 1.3.1',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.3.2',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-base-web: 4.0.0',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-base-persistence: 4.0.0',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-base-core: 4.0.0',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-persistence: 1.3.2',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-solayu: 3.0.3',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-advanced-grid: 2.1.1',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-workflow-simple: 1.0.2',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-user-management: 1.0.1',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-scsp-consumption: 2.1.2',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-catastro-consumption: 2.0.1',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-business-log: 1.0.1',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-subvention: 1.0.1',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-pima-consumption: 1.0.1',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-base: 3.0.1',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-validation: 2.0.1',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-field: 2.0.1',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-application: 1.0.1',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-pima-consumption: 1.0.2',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-user-management: 1.0.3',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-validation: 3.0.1',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-unique-identifier-lib: 1.0.0',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0-SNAPSHOT',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-application: 2.0.0-SNAPSHOT',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-base-web: 4.0.0-SNAPSHOT',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-catastro-consumption: 3.0.0',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-base-web: 4.1.0',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-business-log-lib: 2.0.0',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-base-persistence: 4.1.0',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-application: 2.0.0',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-field: 3.0.0',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-base-core: 4.1.0',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-file: 1.0.0',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-parent: 3.0.0',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-parent: 3.0.1',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'com.mchange: c3p0: 0.9.2',
+		'group': 'com.mchange'
+	},
+	{
+		'id': 'org.springframework: spring-orm: 3.2.13.RELEASE',
+		'group': 'org.springframework'
+	},
+	{
+		'id': 'org.springframework: spring-web: 3.2.13.RELEASE',
+		'group': 'org.springframework'
+	},
+	{
+		'id': 'org.springframework.security: spring-security-acl: 3.2.9.RELEASE',
+		'group': 'org.springframework.security'
+	},
+	{
+		'id': 'org.springframework.security: spring-security-config: 3.2.9.RELEASE',
+		'group': 'org.springframework.security'
+	},
+	{
+		'id': 'org.springframework.security: spring-security-web: 3.2.9.RELEASE',
+		'group': 'org.springframework.security'
+	},
+	{
+		'id': 'org.springframework.security: spring-security-core: 3.2.9.RELEASE',
+		'group': 'org.springframework.security'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: cfv-persistence: 1.2.0',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'commons-collections: commons-collections: 3.2.2',
+		'group': 'commons-collections'
+	},
+	{
+		'id': 'commons-beanutils: commons-beanutils: 1.9.2',
+		'group': 'commons-beanutils'
+	},
+	{
+		'id': 'commons-io: commons-io: 1.3.2',
+		'group': 'commons-io'
+	},
+	{
+		'id': 'commons-logging: commons-logging: 1.1.1',
+		'group': 'commons-logging'
+	},
+	{
+		'id': 'log4j: log4j: 1.2.16',
+		'group': 'log4j'
+	},
+	{
+		'id': 'net.sf.dozer: dozer: 5.5.1',
+		'group': 'net.sf.dozer'
+	},
+	{
+		'id': 'javax.servlet: jstl: 1.2',
+		'group': 'javax.servlet'
+	},
+	{
+		'id': 'com.sun.faces: jsf-impl: 2.1.2',
+		'group': 'com.sun.faces'
+	},
+	{
+		'id': 'com.sun.faces: jsf-api: 2.1.2',
+		'group': 'com.sun.faces'
+	},
+	{
+		'id': 'org.primefaces.themes: redmond: 1.0.9',
+		'group': 'org.primefaces.themes'
+	},
+	{
+		'id': 'org.primefaces: primefaces: 4.0',
+		'group': 'org.primefaces'
+	},
+	{
+		'id': 'org.apache.santuario: xmlsec: 1.5.7',
+		'group': 'org.apache.santuario'
+	},
+	{
+		'id': 'org.apache.ws.security: wss4j: 1.6.17',
+		'group': 'org.apache.ws.security'
+	},
+	{
+		'id': 'commons-codec: commons-codec: 1.7',
+		'group': 'commons-codec'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c_mod_base: 2.1.0',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: scsp-ws-client: 1.1.0',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: catastro-ws-client: 1.0.0',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c_mod_base: 2.2.0',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'xalan: xalan: 2.7.1',
+		'group': 'xalan'
+	},
+	{
+		'id': 'org.bouncycastle: bcprov-jdk16: 1.45',
+		'group': 'org.bouncycastle'
+	},
+	{
+		'id': 'org.apache.santuario: xmlsec: 1.5.1',
+		'group': 'org.apache.santuario'
+	},
+	{
+		'id': 'org.apache.cxf: cxf-rt-ws-security: 2.7.5',
+		'group': 'org.apache.cxf'
+	},
+	{
+		'id': 'org.apache.cxf: cxf-rt-transports-http: 2.7.5',
+		'group': 'org.apache.cxf'
+	},
+	{
+		'id': 'org.apache.cxf: cxf-rt-frontend-jaxws: 2.7.5',
+		'group': 'org.apache.cxf'
+	},
+	{
+		'id': 'log4j: log4j: 1.2.14',
+		'group': 'log4j'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: receivClientBundle: 1.0.0',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'org.wso2.carbon: org.wso2.carbon.identity.application.common: 4.2.0',
+		'group': 'org.wso2.carbon'
+	},
+	{
+		'id': 'org.wso2.carbon: org.wso2.carbon.core.services: 4.2.0',
+		'group': 'org.wso2.carbon'
+	},
+	{
+		'id': 'org.wso2.carbon: org.wso2.carbon.identity.application.authentication.framework: 4.2.5',
+		'group': 'org.wso2.carbon'
+	},
+	{
+		'id': 'org.wso2.carbon: org.wso2.carbon.logging: 4.2.0',
+		'group': 'org.wso2.carbon'
+	},
+	{
+		'id': 'org.wso2.carbon: org.wso2.carbon.core: 4.2.0',
+		'group': 'org.wso2.carbon'
+	},
+	{
+		'id': 'org.wso2.carbon: org.wso2.carbon.identity.application.mgt: 4.2.0',
+		'group': 'org.wso2.carbon'
+	},
+	{
+		'id': 'org.wso2.carbon: org.wso2.carbon.identity.core: 4.2.5',
+		'group': 'org.wso2.carbon'
+	},
+	{
+		'id': 'org.wso2.carbon: org.wso2.carbon.identity.base: 4.2.0',
+		'group': 'org.wso2.carbon'
+	},
+	{
+		'id': 'org.wso2.carbon: org.wso2.carbon.utils: 4.2.0',
+		'group': 'org.wso2.carbon'
+	},
+	{
+		'id': 'commons-vfs: commons-vfs: 1.0',
+		'group': 'commons-vfs'
+	},
+	{
+		'id': 'org.aspectj: aspectjweaver: 1.6.8',
+		'group': 'org.aspectj'
+	},
+	{
+		'id': 'org.hibernate: hibernate-c3p0: 4.2.18.Final',
+		'group': 'org.hibernate'
+	},
+	{
+		'id': 'org.hibernate: hibernate-envers: 4.2.18.Final',
+		'group': 'org.hibernate'
+	},
+	{
+		'id': 'org.hibernate: hibernate-entitymanager: 4.2.18.Final',
+		'group': 'org.hibernate'
+	},
+	{
+		'id': 'org.hibernate: hibernate-core: 4.2.18.Final',
+		'group': 'org.hibernate'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: ayudas-core-negocio: 2.4.0',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: scsp-ws-client: 1.2.0',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c_mod_base: 2.3.0',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'xalan: xalan: 2.7.2',
+		'group': 'xalan'
+	},
+	{
+		'id': 'org.apache.xmlgraphics: batik-css: 1.8',
+		'group': 'org.apache.xmlgraphics'
+	},
+	{
+		'id': 'org.codehaus.janino: janino: 2.5.16',
+		'group': 'org.codehaus.janino'
+	},
+	{
+		'id': 'pentaho-kettle: kettle-engine: 5.4.1.6-192',
+		'group': 'pentaho-kettle'
+	},
+	{
+		'id': 'org.owasp.esapi: esapi: 2.1.0.1',
+		'group': 'org.owasp.esapi'
+	},
+	{
+		'id': 'pentaho-kettle: kettle-core: 5.4.1.6-192',
+		'group': 'pentaho-kettle'
+	},
+	{
+		'id': 'commons-lang: commons-lang: 2.3',
+		'group': 'commons-lang'
+	},
+	{
+		'id': 'org.apache.httpcomponents: httpclient: 4.5.2',
+		'group': 'org.apache.httpcomponents'
+	},
+	{
+		'id': 'es.juntadeandalucia.agua.conector: conector-credenciales: 1.1.4',
+		'group': 'es.juntadeandalucia.agua.conector'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv.gevi: gevi-ws-client: 2.0.0',
+		'group': 'es.juntadeandalucia.cfv.gevi'
+	},
+	{
+		'id': 'org.apache.geronimo.specs: geronimo-javamail_1.4_spec: 1.7.1',
+		'group': 'org.apache.geronimo.specs'
+	},
+	{
+		'id': 'com.sun.xml.bind: jaxb-xjc: 2.2.11',
+		'group': 'com.sun.xml.bind'
+	},
+	{
+		'id': 'com.sun.xml.bind: jaxb-impl: 2.2.11',
+		'group': 'com.sun.xml.bind'
+	},
+	{
+		'id': 'com.sun.xml.bind: jaxb-core: 2.2.11',
+		'group': 'com.sun.xml.bind'
+	},
+	{
+		'id': 'com.google.guava: guava: 18.0',
+		'group': 'com.google.guava'
+	},
+	{
+		'id': 'org.powermock: powermock-api-mockito: 1.6.5',
+		'group': 'org.powermock'
+	},
+	{
+		'id': 'org.powermock: powermock-module-junit4: 1.6.5',
+		'group': 'org.powermock'
+	},
+	{
+		'id': 'org.opensaml: opensaml: 2.2.3',
+		'group': 'org.opensaml'
+	},
+	{
+		'id': 'com.google.code.gson: gson: 2.2.2',
+		'group': 'com.google.code.gson'
+	},
+	{
+		'id': 'org.openid4java: openid4java-consumer: 0.9.6',
+		'group': 'org.openid4java'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c_mod_base: 2.3.1',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'org.springframework.security: spring-security-acl: 4.1.3.RELEASE',
+		'group': 'org.springframework.security'
+	},
+	{
+		'id': 'org.springframework.security: spring-security-config: 4.1.3.RELEASE',
+		'group': 'org.springframework.security'
+	},
+	{
+		'id': 'org.springframework.security: spring-security-web: 4.1.3.RELEASE',
+		'group': 'org.springframework.security'
+	},
+	{
+		'id': 'org.springframework.security: spring-security-core: 4.1.3.RELEASE',
+		'group': 'org.springframework.security'
+	},
+	{
+		'id': 'org.primefaces: primefaces: 5.3',
+		'group': 'org.primefaces'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-base-validation: 1.0.0',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'org.springframework: spring-orm: 4.3.2.RELEASE',
+		'group': 'org.springframework'
+	},
+	{
+		'id': 'org.springframework: spring-context: 4.3.2.RELEASE',
+		'group': 'org.springframework'
+	},
+	{
+		'id': 'org.projectlombok: lombok: 1.16.6',
+		'group': 'org.projectlombok'
+	},
+	{
+		'id': 'com.google.guava: guava: 21.0',
+		'group': 'com.google.guava'
+	},
+	{
+		'id': 'org.apache.commons: commons-lang3: 3.5',
+		'group': 'org.apache.commons'
+	},
+	{
+		'id': 'org.springframework: spring-webmvc: 4.3.2.RELEASE',
+		'group': 'org.springframework'
+	},
+	{
+		'id': 'org.springframework: spring-web: 4.3.2.RELEASE',
+		'group': 'org.springframework'
+	},
+	{
+		'id': 'es.juntadeandalucia.cice.cmi.pct.componentes: aries-pct: 2.5.4',
+		'group': 'es.juntadeandalucia.cice.cmi.pct.componentes'
+	},
+	{
+		'id': 'axis: axis: 1.4',
+		'group': 'axis'
+	},
+	{
+		'id': 'com.lowagie: itext: 2.1.7',
+		'group': 'com.lowagie'
+	},
+	{
+		'id': 'jdom: jdom: 1.0',
+		'group': 'jdom'
+	},
+	{
+		'id': 'net.sf.barcode4j: barcode4j: 2.1',
+		'group': 'net.sf.barcode4j'
+	},
+	{
+		'id': 'org.apache.xmlgraphics: batik-bridge: 1.8',
+		'group': 'org.apache.xmlgraphics'
+	},
+	{
+		'id': 'net.sf.jasperreports: jasperreports: 5.1.0',
+		'group': 'net.sf.jasperreports'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: ws-client-scsp: 2.1.0',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'xml-apis: xml-apis: 1.4.01',
+		'group': 'xml-apis'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: ws-client-catastro: 2.0.0',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv.ge.ws: ge-ws-client: 1.1.0',
+		'group': 'es.juntadeandalucia.cfv.ge.ws'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv.ge.ws: ge-ws-client-GE: 1.1.0',
+		'group': 'es.juntadeandalucia.cfv.ge.ws'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv.ge.ws: ge-ws-client: 1.5.0',
+		'group': 'es.juntadeandalucia.cfv.ge.ws'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv.ge.ws: ge-ws-client-GE: 1.5.0',
+		'group': 'es.juntadeandalucia.cfv.ge.ws'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-base-validation: 1.0.0-SNAPSHOT',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-base-persistence: 4.0.0-SNAPSHOT',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'es.juntadeandalucia.cfv: c-base-validation: 1.1.0',
+		'group': 'es.juntadeandalucia.cfv'
+	},
+	{
+		'id': 'org.springframework: spring-orm: 4.3.5.RELEASE',
+		'group': 'org.springframework'
+	},
+	{
+		'id': 'org.springframework: spring-webmvc: 4.3.5.RELEASE',
+		'group': 'org.springframework'
+	},
+	{
+		'id': 'org.springframework: spring-context: 4.3.5.RELEASE',
+		'group': 'org.springframework'
+	}],
+	,
+	'links': [{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.0.0',
+		'target': 'com.mchange: c3p0: 0.9.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.0.0',
+		'target': 'org.springframework: spring-orm: 3.2.13.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.0.0',
+		'target': 'org.springframework: spring-web: 3.2.13.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.0.0',
+		'target': 'org.springframework.security: spring-security-acl: 3.2.9.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.0.0',
+		'target': 'org.springframework.security: spring-security-config: 3.2.9.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.0.0',
+		'target': 'org.springframework.security: spring-security-web: 3.2.9.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.0.0',
+		'target': 'org.springframework.security: spring-security-core: 3.2.9.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.0.0',
+		'target': 'es.juntadeandalucia.cfv: cfv-persistence: 1.2.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.0.0',
+		'target': 'commons-collections: commons-collections: 3.2.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.0.0',
+		'target': 'commons-beanutils: commons-beanutils: 1.9.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.0.0',
+		'target': 'commons-io: commons-io: 1.3.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.0.0',
+		'target': 'commons-logging: commons-logging: 1.1.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.0.0',
+		'target': 'log4j: log4j: 1.2.16',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.0.0',
+		'target': 'net.sf.dozer: dozer: 5.5.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.0.0',
+		'target': 'javax.servlet: jstl: 1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.0.0',
+		'target': 'com.sun.faces: jsf-impl: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.0.0',
+		'target': 'com.sun.faces: jsf-api: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.0.0',
+		'target': 'org.primefaces.themes: redmond: 1.0.9',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.0.0',
+		'target': 'org.primefaces: primefaces: 4.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.0.0',
+		'target': 'org.apache.santuario: xmlsec: 1.5.7',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.0.0',
+		'target': 'org.apache.ws.security: wss4j: 1.6.17',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.0.0',
+		'target': 'commons-codec: commons-codec: 1.7',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.0.0',
+		'target': 'es.juntadeandalucia.cfv: c_mod_base: 2.1.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.1.0',
+		'target': 'com.mchange: c3p0: 0.9.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.1.0',
+		'target': 'org.springframework: spring-orm: 3.2.13.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.1.0',
+		'target': 'org.springframework: spring-web: 3.2.13.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.1.0',
+		'target': 'org.springframework.security: spring-security-acl: 3.2.9.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.1.0',
+		'target': 'org.springframework.security: spring-security-config: 3.2.9.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.1.0',
+		'target': 'org.springframework.security: spring-security-web: 3.2.9.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.1.0',
+		'target': 'org.springframework.security: spring-security-core: 3.2.9.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.1.0',
+		'target': 'es.juntadeandalucia.cfv: cfv-persistence: 1.2.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.1.0',
+		'target': 'commons-collections: commons-collections: 3.2.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.1.0',
+		'target': 'net.sf.dozer: dozer: 5.5.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.1.0',
+		'target': 'javax.servlet: jstl: 1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.1.0',
+		'target': 'com.sun.faces: jsf-impl: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.1.0',
+		'target': 'com.sun.faces: jsf-api: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.1.0',
+		'target': 'org.primefaces.themes: redmond: 1.0.9',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.1.0',
+		'target': 'org.primefaces: primefaces: 4.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.1.0',
+		'target': 'org.apache.santuario: xmlsec: 1.5.7',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.1.0',
+		'target': 'org.apache.ws.security: wss4j: 1.6.17',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.1.0',
+		'target': 'commons-codec: commons-codec: 1.7',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.1.0',
+		'target': 'es.juntadeandalucia.cfv: scsp-ws-client: 1.1.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.1.0',
+		'target': 'es.juntadeandalucia.cfv: c_mod_base: 2.1.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-catastro-consumption: 1.1.0',
+		'target': 'es.juntadeandalucia.cfv: catastro-ws-client: 1.0.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.1.0',
+		'target': 'com.mchange: c3p0: 0.9.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.1.0',
+		'target': 'org.springframework: spring-orm: 3.2.13.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.1.0',
+		'target': 'org.springframework: spring-web: 3.2.13.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.1.0',
+		'target': 'org.springframework.security: spring-security-acl: 3.2.9.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.1.0',
+		'target': 'org.springframework.security: spring-security-config: 3.2.9.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.1.0',
+		'target': 'org.springframework.security: spring-security-web: 3.2.9.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.1.0',
+		'target': 'org.springframework.security: spring-security-core: 3.2.9.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.1.0',
+		'target': 'es.juntadeandalucia.cfv: cfv-persistence: 1.2.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.1.0',
+		'target': 'commons-collections: commons-collections: 3.2.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.1.0',
+		'target': 'commons-beanutils: commons-beanutils: 1.9.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.1.0',
+		'target': 'commons-io: commons-io: 1.3.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.1.0',
+		'target': 'commons-logging: commons-logging: 1.1.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.1.0',
+		'target': 'log4j: log4j: 1.2.16',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.1.0',
+		'target': 'net.sf.dozer: dozer: 5.5.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.1.0',
+		'target': 'javax.servlet: jstl: 1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.1.0',
+		'target': 'com.sun.faces: jsf-impl: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.1.0',
+		'target': 'com.sun.faces: jsf-api: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.1.0',
+		'target': 'org.primefaces.themes: redmond: 1.0.9',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.1.0',
+		'target': 'org.primefaces: primefaces: 4.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.1.0',
+		'target': 'org.apache.santuario: xmlsec: 1.5.7',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.1.0',
+		'target': 'org.apache.ws.security: wss4j: 1.6.17',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.1.0',
+		'target': 'commons-codec: commons-codec: 1.7',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.1.0',
+		'target': 'es.juntadeandalucia.cfv: c_mod_base: 2.2.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.2.0',
+		'target': 'com.mchange: c3p0: 0.9.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.2.0',
+		'target': 'org.springframework: spring-orm: 3.2.13.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.2.0',
+		'target': 'org.springframework: spring-web: 3.2.13.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.2.0',
+		'target': 'org.springframework.security: spring-security-acl: 3.2.9.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.2.0',
+		'target': 'org.springframework.security: spring-security-config: 3.2.9.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.2.0',
+		'target': 'org.springframework.security: spring-security-web: 3.2.9.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.2.0',
+		'target': 'org.springframework.security: spring-security-core: 3.2.9.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.2.0',
+		'target': 'es.juntadeandalucia.cfv: cfv-persistence: 1.2.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.2.0',
+		'target': 'commons-collections: commons-collections: 3.2.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.2.0',
+		'target': 'net.sf.dozer: dozer: 5.5.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.2.0',
+		'target': 'javax.servlet: jstl: 1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.2.0',
+		'target': 'com.sun.faces: jsf-impl: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.2.0',
+		'target': 'com.sun.faces: jsf-api: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.2.0',
+		'target': 'org.primefaces.themes: redmond: 1.0.9',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.2.0',
+		'target': 'org.primefaces: primefaces: 4.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.2.0',
+		'target': 'org.apache.santuario: xmlsec: 1.5.7',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.2.0',
+		'target': 'org.apache.ws.security: wss4j: 1.6.17',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.2.0',
+		'target': 'commons-codec: commons-codec: 1.7',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.2.0',
+		'target': 'es.juntadeandalucia.cfv: scsp-ws-client: 1.1.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.2.0',
+		'target': 'es.juntadeandalucia.cfv: c_mod_base: 2.2.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-catastro-consumption: 1.2.0',
+		'target': 'es.juntadeandalucia.cfv: catastro-ws-client: 1.0.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-authorization: 1.0.0',
+		'target': 'commons-logging: commons-logging: 1.1.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-authorization: 1.0.0',
+		'target': 'xalan: xalan: 2.7.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-authorization: 1.0.0',
+		'target': 'org.bouncycastle: bcprov-jdk16: 1.45',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-authorization: 1.0.0',
+		'target': 'org.apache.santuario: xmlsec: 1.5.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-authorization: 1.0.0',
+		'target': 'org.apache.cxf: cxf-rt-ws-security: 2.7.5',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-authorization: 1.0.0',
+		'target': 'org.apache.cxf: cxf-rt-transports-http: 2.7.5',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-authorization: 1.0.0',
+		'target': 'org.apache.cxf: cxf-rt-frontend-jaxws: 2.7.5',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-authorization: 1.0.0',
+		'target': 'commons-codec: commons-codec: 1.7',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-authorization: 1.0.0',
+		'target': 'log4j: log4j: 1.2.14',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-multiauth: 1.0.0',
+		'target': 'es.juntadeandalucia.cfv: receivClientBundle: 1.0.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-multiauth: 1.0.0',
+		'target': 'org.wso2.carbon: org.wso2.carbon.identity.application.common: 4.2.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-multiauth: 1.0.0',
+		'target': 'org.wso2.carbon: org.wso2.carbon.core.services: 4.2.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-multiauth: 1.0.0',
+		'target': 'org.wso2.carbon: org.wso2.carbon.identity.application.authentication.framework: 4.2.5',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-multiauth: 1.0.0',
+		'target': 'org.wso2.carbon: org.wso2.carbon.logging: 4.2.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-multiauth: 1.0.0',
+		'target': 'org.wso2.carbon: org.wso2.carbon.core: 4.2.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-multiauth: 1.0.0',
+		'target': 'org.wso2.carbon: org.wso2.carbon.identity.application.mgt: 4.2.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-multiauth: 1.0.0',
+		'target': 'org.wso2.carbon: org.wso2.carbon.identity.core: 4.2.5',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-multiauth: 1.0.0',
+		'target': 'org.wso2.carbon: org.wso2.carbon.identity.base: 4.2.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-multiauth: 1.0.0',
+		'target': 'org.wso2.carbon: org.wso2.carbon.utils: 4.2.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-persistence: 1.3.1',
+		'target': 'commons-vfs: commons-vfs: 1.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-persistence: 1.3.1',
+		'target': 'commons-collections: commons-collections: 3.2.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-persistence: 1.3.1',
+		'target': 'commons-beanutils: commons-beanutils: 1.9.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-persistence: 1.3.1',
+		'target': 'org.aspectj: aspectjweaver: 1.6.8',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-persistence: 1.3.1',
+		'target': 'commons-logging: commons-logging: 1.1.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-persistence: 1.3.1',
+		'target': 'log4j: log4j: 1.2.14',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-persistence: 1.3.1',
+		'target': 'org.hibernate: hibernate-c3p0: 4.2.18.Final',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-persistence: 1.3.1',
+		'target': 'org.hibernate: hibernate-envers: 4.2.18.Final',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-persistence: 1.3.1',
+		'target': 'org.hibernate: hibernate-entitymanager: 4.2.18.Final',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-persistence: 1.3.1',
+		'target': 'org.hibernate: hibernate-core: 4.2.18.Final',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-ayudas: 2.4.0',
+		'target': 'es.juntadeandalucia.cfv: ayudas-core-negocio: 2.4.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.3.0',
+		'target': 'es.juntadeandalucia.cfv: scsp-ws-client: 1.2.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.3.0',
+		'target': 'es.juntadeandalucia.cfv: c_mod_base: 2.3.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-catastro-consumption: 1.3.0',
+		'target': 'es.juntadeandalucia.cfv: c_mod_base: 2.3.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-catastro-consumption: 1.3.0',
+		'target': 'es.juntadeandalucia.cfv: catastro-ws-client: 1.0.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pin: 1.0.0',
+		'target': 'com.mchange: c3p0: 0.9.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pin: 1.0.0',
+		'target': 'org.springframework: spring-orm: 3.2.13.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pin: 1.0.0',
+		'target': 'org.springframework: spring-web: 3.2.13.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pin: 1.0.0',
+		'target': 'org.springframework.security: spring-security-acl: 3.2.9.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pin: 1.0.0',
+		'target': 'org.springframework.security: spring-security-config: 3.2.9.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pin: 1.0.0',
+		'target': 'org.springframework.security: spring-security-web: 3.2.9.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pin: 1.0.0',
+		'target': 'org.springframework.security: spring-security-core: 3.2.9.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pin: 1.0.0',
+		'target': 'es.juntadeandalucia.cfv: cfv-persistence: 1.2.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pin: 1.0.0',
+		'target': 'commons-collections: commons-collections: 3.2.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pin: 1.0.0',
+		'target': 'commons-beanutils: commons-beanutils: 1.9.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pin: 1.0.0',
+		'target': 'commons-io: commons-io: 1.3.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pin: 1.0.0',
+		'target': 'commons-logging: commons-logging: 1.1.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pin: 1.0.0',
+		'target': 'log4j: log4j: 1.2.16',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pin: 1.0.0',
+		'target': 'net.sf.dozer: dozer: 5.5.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pin: 1.0.0',
+		'target': 'javax.servlet: jstl: 1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pin: 1.0.0',
+		'target': 'com.sun.faces: jsf-impl: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pin: 1.0.0',
+		'target': 'com.sun.faces: jsf-api: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pin: 1.0.0',
+		'target': 'org.primefaces.themes: redmond: 1.0.9',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pin: 1.0.0',
+		'target': 'org.primefaces: primefaces: 4.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pin: 1.0.0',
+		'target': 'org.apache.santuario: xmlsec: 1.5.7',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pin: 1.0.0',
+		'target': 'org.apache.ws.security: wss4j: 1.6.17',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pin: 1.0.0',
+		'target': 'commons-codec: commons-codec: 1.7',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pin: 1.0.0',
+		'target': 'xalan: xalan: 2.7.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pin: 1.0.0',
+		'target': 'org.apache.xmlgraphics: batik-css: 1.8',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pin: 1.0.0',
+		'target': 'org.codehaus.janino: janino: 2.5.16',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pin: 1.0.0',
+		'target': 'pentaho-kettle: kettle-engine: 5.4.1.6-192',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pin: 1.0.0',
+		'target': 'org.owasp.esapi: esapi: 2.1.0.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pin: 1.0.0',
+		'target': 'pentaho-kettle: kettle-core: 5.4.1.6-192',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pin: 1.0.0',
+		'target': 'commons-lang: commons-lang: 2.3',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pin: 1.0.0',
+		'target': 'org.bouncycastle: bcprov-jdk16: 1.45',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pin: 1.0.0',
+		'target': 'org.apache.httpcomponents: httpclient: 4.5.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pin: 1.0.0',
+		'target': 'es.juntadeandalucia.agua.conector: conector-credenciales: 1.1.4',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pin: 1.0.0',
+		'target': 'es.juntadeandalucia.cfv.gevi: gevi-ws-client: 2.0.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pin: 1.0.0',
+		'target': 'es.juntadeandalucia.cfv: c-advanced-grid: 1.0.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-advanced-grid: 1.0.0',
+		'target': 'org.apache.geronimo.specs: geronimo-javamail_1.4_spec: 1.7.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-advanced-grid: 1.0.0',
+		'target': 'es.juntadeandalucia.cfv: c-campos: 1.0.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-campos: 1.0.0',
+		'target': 'es.juntadeandalucia.cfv: c_mod_base: 2.3.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-ws-consumption: 1.1.1',
+		'target': 'com.sun.xml.bind: jaxb-xjc: 2.2.11',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-ws-consumption: 1.1.1',
+		'target': 'com.sun.xml.bind: jaxb-impl: 2.2.11',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-ws-consumption: 1.1.1',
+		'target': 'com.sun.xml.bind: jaxb-core: 2.2.11',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-ws-consumption: 1.1.1',
+		'target': 'com.google.guava: guava: 18.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-ws-consumption: 1.1.1',
+		'target': 'org.powermock: powermock-api-mockito: 1.6.5',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-ws-consumption: 1.1.1',
+		'target': 'org.powermock: powermock-module-junit4: 1.6.5',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-ws-consumption: 1.1.1',
+		'target': 'org.apache.cxf: cxf-rt-ws-security: 2.7.5',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-authentication-lite: 1.0.0',
+		'target': 'org.opensaml: opensaml: 2.2.3',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-authentication-lite: 1.0.0',
+		'target': 'com.google.code.gson: gson: 2.2.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-authentication-lite: 1.0.0',
+		'target': 'org.openid4java: openid4java-consumer: 0.9.6',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-authentication-lite: 1.0.0',
+		'target': 'es.juntadeandalucia.agua.conector: conector-credenciales: 1.1.4',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.2.1',
+		'target': 'com.mchange: c3p0: 0.9.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.2.1',
+		'target': 'org.springframework: spring-orm: 3.2.13.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.2.1',
+		'target': 'org.springframework: spring-web: 3.2.13.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.2.1',
+		'target': 'org.springframework.security: spring-security-acl: 3.2.9.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.2.1',
+		'target': 'org.springframework.security: spring-security-config: 3.2.9.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.2.1',
+		'target': 'org.springframework.security: spring-security-web: 3.2.9.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.2.1',
+		'target': 'org.springframework.security: spring-security-core: 3.2.9.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.2.1',
+		'target': 'es.juntadeandalucia.cfv: cfv-persistence: 1.2.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.2.1',
+		'target': 'commons-collections: commons-collections: 3.2.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.2.1',
+		'target': 'commons-beanutils: commons-beanutils: 1.9.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.2.1',
+		'target': 'commons-io: commons-io: 1.3.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.2.1',
+		'target': 'commons-logging: commons-logging: 1.1.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.2.1',
+		'target': 'log4j: log4j: 1.2.16',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.2.1',
+		'target': 'net.sf.dozer: dozer: 5.5.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.2.1',
+		'target': 'javax.servlet: jstl: 1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.2.1',
+		'target': 'com.sun.faces: jsf-impl: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.2.1',
+		'target': 'com.sun.faces: jsf-api: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.2.1',
+		'target': 'org.primefaces.themes: redmond: 1.0.9',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.2.1',
+		'target': 'org.primefaces: primefaces: 4.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.2.1',
+		'target': 'org.apache.santuario: xmlsec: 1.5.7',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.2.1',
+		'target': 'org.apache.ws.security: wss4j: 1.6.17',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.2.1',
+		'target': 'commons-codec: commons-codec: 1.7',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-mod-validaciones: 1.2.1',
+		'target': 'es.juntadeandalucia.cfv: c_mod_base: 2.3.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.3.1',
+		'target': 'com.mchange: c3p0: 0.9.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.3.1',
+		'target': 'org.springframework: spring-orm: 3.2.13.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.3.1',
+		'target': 'org.springframework: spring-web: 3.2.13.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.3.1',
+		'target': 'org.springframework.security: spring-security-acl: 3.2.9.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.3.1',
+		'target': 'org.springframework.security: spring-security-config: 3.2.9.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.3.1',
+		'target': 'org.springframework.security: spring-security-web: 3.2.9.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.3.1',
+		'target': 'org.springframework.security: spring-security-core: 3.2.9.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.3.1',
+		'target': 'es.juntadeandalucia.cfv: cfv-persistence: 1.2.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.3.1',
+		'target': 'commons-collections: commons-collections: 3.2.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.3.1',
+		'target': 'net.sf.dozer: dozer: 5.5.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.3.1',
+		'target': 'javax.servlet: jstl: 1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.3.1',
+		'target': 'com.sun.faces: jsf-impl: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.3.1',
+		'target': 'com.sun.faces: jsf-api: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.3.1',
+		'target': 'org.primefaces.themes: redmond: 1.0.9',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.3.1',
+		'target': 'org.primefaces: primefaces: 4.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.3.1',
+		'target': 'org.apache.santuario: xmlsec: 1.5.7',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.3.1',
+		'target': 'org.apache.ws.security: wss4j: 1.6.17',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.3.1',
+		'target': 'commons-codec: commons-codec: 1.7',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.3.1',
+		'target': 'es.juntadeandalucia.cfv: scsp-ws-client: 1.2.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.3.1',
+		'target': 'es.juntadeandalucia.cfv: c_mod_base: 2.3.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-catastro-consumption: 1.3.1',
+		'target': 'es.juntadeandalucia.cfv: catastro-ws-client: 1.0.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.3.2',
+		'target': 'es.juntadeandalucia.cfv: scsp-ws-client: 1.2.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 1.3.2',
+		'target': 'es.juntadeandalucia.cfv: c_mod_base: 2.3.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-web: 4.0.0',
+		'target': 'org.springframework.security: spring-security-acl: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-web: 4.0.0',
+		'target': 'org.springframework.security: spring-security-config: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-web: 4.0.0',
+		'target': 'org.springframework.security: spring-security-web: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-web: 4.0.0',
+		'target': 'org.springframework.security: spring-security-core: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-web: 4.0.0',
+		'target': 'javax.servlet: jstl: 1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-web: 4.0.0',
+		'target': 'com.sun.faces: jsf-impl: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-web: 4.0.0',
+		'target': 'com.sun.faces: jsf-api: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-web: 4.0.0',
+		'target': 'org.primefaces.themes: redmond: 1.0.9',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-web: 4.0.0',
+		'target': 'org.primefaces: primefaces: 5.3',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-web: 4.0.0',
+		'target': 'es.juntadeandalucia.cfv: c-base-validation: 1.0.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-web: 4.0.0',
+		'target': 'es.juntadeandalucia.cfv: c-base-persistence: 4.0.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-persistence: 4.0.0',
+		'target': 'com.mchange: c3p0: 0.9.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-persistence: 4.0.0',
+		'target': 'commons-beanutils: commons-beanutils: 1.9.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-persistence: 4.0.0',
+		'target': 'net.sf.dozer: dozer: 5.5.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-persistence: 4.0.0',
+		'target': 'org.springframework: spring-orm: 4.3.2.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-persistence: 4.0.0',
+		'target': 'es.juntadeandalucia.cfv: c-persistence: 1.3.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-persistence: 4.0.0',
+		'target': 'es.juntadeandalucia.cfv: c-base-core: 4.0.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-core: 4.0.0',
+		'target': 'org.springframework: spring-context: 4.3.2.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-core: 4.0.0',
+		'target': 'org.projectlombok: lombok: 1.16.6',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-core: 4.0.0',
+		'target': 'org.apache.santuario: xmlsec: 1.5.7',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-core: 4.0.0',
+		'target': 'org.apache.ws.security: wss4j: 1.6.17',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-core: 4.0.0',
+		'target': 'com.google.guava: guava: 21.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-core: 4.0.0',
+		'target': 'log4j: log4j: 1.2.16',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-core: 4.0.0',
+		'target': 'org.apache.commons: commons-lang3: 3.5',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-core: 4.0.0',
+		'target': 'commons-codec: commons-codec: 1.7',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-core: 4.0.0',
+		'target': 'commons-collections: commons-collections: 3.2.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-core: 4.0.0',
+		'target': 'commons-logging: commons-logging: 1.1.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-core: 4.0.0',
+		'target': 'commons-io: commons-io: 1.3.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-core: 4.0.0',
+		'target': 'org.springframework: spring-webmvc: 4.3.2.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-persistence: 1.3.2',
+		'target': 'commons-collections: commons-collections: 3.2.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-persistence: 1.3.2',
+		'target': 'commons-beanutils: commons-beanutils: 1.9.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-persistence: 1.3.2',
+		'target': 'commons-logging: commons-logging: 1.1.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-persistence: 1.3.2',
+		'target': 'log4j: log4j: 1.2.14',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-persistence: 1.3.2',
+		'target': 'commons-vfs: commons-vfs: 1.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-persistence: 1.3.2',
+		'target': 'org.aspectj: aspectjweaver: 1.6.8',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-persistence: 1.3.2',
+		'target': 'org.hibernate: hibernate-c3p0: 4.2.18.Final',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-persistence: 1.3.2',
+		'target': 'org.hibernate: hibernate-envers: 4.2.18.Final',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-persistence: 1.3.2',
+		'target': 'org.hibernate: hibernate-entitymanager: 4.2.18.Final',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-persistence: 1.3.2',
+		'target': 'org.hibernate: hibernate-core: 4.2.18.Final',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-solayu: 3.0.3',
+		'target': 'com.mchange: c3p0: 0.9.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-solayu: 3.0.3',
+		'target': 'org.springframework: spring-orm: 4.3.2.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-solayu: 3.0.3',
+		'target': 'org.springframework: spring-web: 4.3.2.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-solayu: 3.0.3',
+		'target': 'org.springframework.security: spring-security-acl: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-solayu: 3.0.3',
+		'target': 'org.springframework.security: spring-security-config: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-solayu: 3.0.3',
+		'target': 'org.springframework.security: spring-security-web: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-solayu: 3.0.3',
+		'target': 'org.springframework.security: spring-security-core: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-solayu: 3.0.3',
+		'target': 'es.juntadeandalucia.cfv: c-persistence: 1.3.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-solayu: 3.0.3',
+		'target': 'commons-collections: commons-collections: 3.2.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-solayu: 3.0.3',
+		'target': 'commons-beanutils: commons-beanutils: 1.9.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-solayu: 3.0.3',
+		'target': 'commons-io: commons-io: 1.3.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-solayu: 3.0.3',
+		'target': 'commons-logging: commons-logging: 1.1.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-solayu: 3.0.3',
+		'target': 'log4j: log4j: 1.2.16',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-solayu: 3.0.3',
+		'target': 'net.sf.dozer: dozer: 5.5.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-solayu: 3.0.3',
+		'target': 'javax.servlet: jstl: 1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-solayu: 3.0.3',
+		'target': 'com.sun.faces: jsf-impl: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-solayu: 3.0.3',
+		'target': 'com.sun.faces: jsf-api: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-solayu: 3.0.3',
+		'target': 'org.primefaces.themes: redmond: 1.0.9',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-solayu: 3.0.3',
+		'target': 'org.primefaces: primefaces: 5.3',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-solayu: 3.0.3',
+		'target': 'org.apache.santuario: xmlsec: 1.5.7',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-solayu: 3.0.3',
+		'target': 'org.apache.ws.security: wss4j: 1.6.17',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-solayu: 3.0.3',
+		'target': 'commons-codec: commons-codec: 1.7',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-solayu: 3.0.3',
+		'target': 'es.juntadeandalucia.cice.cmi.pct.componentes: aries-pct: 2.5.4',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-solayu: 3.0.3',
+		'target': 'axis: axis: 1.4',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-solayu: 3.0.3',
+		'target': 'es.juntadeandalucia.cfv: c-catastro-consumption: 2.0.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-solayu: 3.0.3',
+		'target': 'es.juntadeandalucia.cfv: c-scsp-consumption: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-solayu: 3.0.3',
+		'target': 'com.lowagie: itext: 2.1.7',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-solayu: 3.0.3',
+		'target': 'jdom: jdom: 1.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-solayu: 3.0.3',
+		'target': 'net.sf.barcode4j: barcode4j: 2.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-solayu: 3.0.3',
+		'target': 'xalan: xalan: 2.7.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-solayu: 3.0.3',
+		'target': 'org.apache.xmlgraphics: batik-bridge: 1.8',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-solayu: 3.0.3',
+		'target': 'net.sf.jasperreports: jasperreports: 5.1.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-solayu: 3.0.3',
+		'target': 'es.juntadeandalucia.cfv: c-user-management: 1.0.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-solayu: 3.0.3',
+		'target': 'es.juntadeandalucia.cfv: c-workflow-simple: 1.0.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-solayu: 3.0.3',
+		'target': 'es.juntadeandalucia.cfv: c-advanced-grid: 2.1.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-advanced-grid: 2.1.1',
+		'target': 'com.mchange: c3p0: 0.9.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-advanced-grid: 2.1.1',
+		'target': 'org.springframework: spring-orm: 4.3.2.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-advanced-grid: 2.1.1',
+		'target': 'org.springframework: spring-web: 4.3.2.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-advanced-grid: 2.1.1',
+		'target': 'org.springframework.security: spring-security-acl: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-advanced-grid: 2.1.1',
+		'target': 'org.springframework.security: spring-security-config: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-advanced-grid: 2.1.1',
+		'target': 'org.springframework.security: spring-security-web: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-advanced-grid: 2.1.1',
+		'target': 'org.springframework.security: spring-security-core: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-advanced-grid: 2.1.1',
+		'target': 'es.juntadeandalucia.cfv: c-persistence: 1.3.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-advanced-grid: 2.1.1',
+		'target': 'commons-collections: commons-collections: 3.2.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-advanced-grid: 2.1.1',
+		'target': 'commons-beanutils: commons-beanutils: 1.9.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-advanced-grid: 2.1.1',
+		'target': 'commons-io: commons-io: 1.3.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-advanced-grid: 2.1.1',
+		'target': 'commons-logging: commons-logging: 1.1.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-advanced-grid: 2.1.1',
+		'target': 'log4j: log4j: 1.2.16',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-advanced-grid: 2.1.1',
+		'target': 'net.sf.dozer: dozer: 5.5.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-advanced-grid: 2.1.1',
+		'target': 'javax.servlet: jstl: 1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-advanced-grid: 2.1.1',
+		'target': 'com.sun.faces: jsf-impl: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-advanced-grid: 2.1.1',
+		'target': 'com.sun.faces: jsf-api: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-advanced-grid: 2.1.1',
+		'target': 'org.primefaces.themes: redmond: 1.0.9',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-advanced-grid: 2.1.1',
+		'target': 'org.primefaces: primefaces: 5.3',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-advanced-grid: 2.1.1',
+		'target': 'org.apache.santuario: xmlsec: 1.5.7',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-advanced-grid: 2.1.1',
+		'target': 'org.apache.ws.security: wss4j: 1.6.17',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-advanced-grid: 2.1.1',
+		'target': 'commons-codec: commons-codec: 1.7',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-advanced-grid: 2.1.1',
+		'target': 'org.apache.geronimo.specs: geronimo-javamail_1.4_spec: 1.7.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-advanced-grid: 2.1.1',
+		'target': 'es.juntadeandalucia.cfv: c-field: 2.0.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-workflow-simple: 1.0.2',
+		'target': 'com.mchange: c3p0: 0.9.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-workflow-simple: 1.0.2',
+		'target': 'org.springframework: spring-orm: 4.3.2.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-workflow-simple: 1.0.2',
+		'target': 'org.springframework: spring-web: 4.3.2.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-workflow-simple: 1.0.2',
+		'target': 'org.springframework.security: spring-security-acl: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-workflow-simple: 1.0.2',
+		'target': 'org.springframework.security: spring-security-config: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-workflow-simple: 1.0.2',
+		'target': 'org.springframework.security: spring-security-web: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-workflow-simple: 1.0.2',
+		'target': 'org.springframework.security: spring-security-core: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-workflow-simple: 1.0.2',
+		'target': 'es.juntadeandalucia.cfv: c-persistence: 1.3.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-workflow-simple: 1.0.2',
+		'target': 'commons-collections: commons-collections: 3.2.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-workflow-simple: 1.0.2',
+		'target': 'commons-beanutils: commons-beanutils: 1.9.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-workflow-simple: 1.0.2',
+		'target': 'commons-io: commons-io: 1.3.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-workflow-simple: 1.0.2',
+		'target': 'commons-logging: commons-logging: 1.1.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-workflow-simple: 1.0.2',
+		'target': 'log4j: log4j: 1.2.16',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-workflow-simple: 1.0.2',
+		'target': 'net.sf.dozer: dozer: 5.5.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-workflow-simple: 1.0.2',
+		'target': 'javax.servlet: jstl: 1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-workflow-simple: 1.0.2',
+		'target': 'com.sun.faces: jsf-impl: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-workflow-simple: 1.0.2',
+		'target': 'com.sun.faces: jsf-api: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-workflow-simple: 1.0.2',
+		'target': 'org.primefaces.themes: redmond: 1.0.9',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-workflow-simple: 1.0.2',
+		'target': 'org.primefaces: primefaces: 5.3',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-workflow-simple: 1.0.2',
+		'target': 'org.apache.santuario: xmlsec: 1.5.7',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-workflow-simple: 1.0.2',
+		'target': 'org.apache.ws.security: wss4j: 1.6.17',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-workflow-simple: 1.0.2',
+		'target': 'commons-codec: commons-codec: 1.7',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-workflow-simple: 1.0.2',
+		'target': 'es.juntadeandalucia.cfv: c-validation: 2.0.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.0.1',
+		'target': 'org.apache.httpcomponents: httpclient: 4.5.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.0.1',
+		'target': 'es.juntadeandalucia.agua.conector: conector-credenciales: 1.1.4',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.0.1',
+		'target': 'es.juntadeandalucia.cfv.gevi: gevi-ws-client: 2.0.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.0.1',
+		'target': 'es.juntadeandalucia.cfv: c-pima-consumption: 1.0.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.0.1',
+		'target': 'es.juntadeandalucia.cfv: c-subvention: 1.0.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 2.1.2',
+		'target': 'com.mchange: c3p0: 0.9.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 2.1.2',
+		'target': 'org.springframework: spring-orm: 4.3.2.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 2.1.2',
+		'target': 'org.springframework: spring-web: 4.3.2.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 2.1.2',
+		'target': 'org.springframework.security: spring-security-acl: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 2.1.2',
+		'target': 'org.springframework.security: spring-security-config: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 2.1.2',
+		'target': 'org.springframework.security: spring-security-web: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 2.1.2',
+		'target': 'org.springframework.security: spring-security-core: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 2.1.2',
+		'target': 'es.juntadeandalucia.cfv: c-persistence: 1.3.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 2.1.2',
+		'target': 'commons-collections: commons-collections: 3.2.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 2.1.2',
+		'target': 'commons-beanutils: commons-beanutils: 1.9.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 2.1.2',
+		'target': 'commons-io: commons-io: 1.3.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 2.1.2',
+		'target': 'commons-logging: commons-logging: 1.1.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 2.1.2',
+		'target': 'log4j: log4j: 1.2.16',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 2.1.2',
+		'target': 'net.sf.dozer: dozer: 5.5.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 2.1.2',
+		'target': 'javax.servlet: jstl: 1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 2.1.2',
+		'target': 'com.sun.faces: jsf-impl: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 2.1.2',
+		'target': 'com.sun.faces: jsf-api: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 2.1.2',
+		'target': 'org.primefaces.themes: redmond: 1.0.9',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 2.1.2',
+		'target': 'org.primefaces: primefaces: 5.3',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 2.1.2',
+		'target': 'org.apache.santuario: xmlsec: 1.5.7',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 2.1.2',
+		'target': 'org.apache.ws.security: wss4j: 1.6.17',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 2.1.2',
+		'target': 'commons-codec: commons-codec: 1.7',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 2.1.2',
+		'target': 'org.apache.geronimo.specs: geronimo-javamail_1.4_spec: 1.7.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 2.1.2',
+		'target': 'es.juntadeandalucia.cfv: ws-client-scsp: 2.1.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-scsp-consumption: 2.1.2',
+		'target': 'es.juntadeandalucia.cfv: c-business-log: 1.0.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-catastro-consumption: 2.0.1',
+		'target': 'com.mchange: c3p0: 0.9.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-catastro-consumption: 2.0.1',
+		'target': 'org.springframework: spring-orm: 4.3.2.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-catastro-consumption: 2.0.1',
+		'target': 'org.springframework: spring-web: 4.3.2.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-catastro-consumption: 2.0.1',
+		'target': 'org.springframework.security: spring-security-acl: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-catastro-consumption: 2.0.1',
+		'target': 'org.springframework.security: spring-security-config: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-catastro-consumption: 2.0.1',
+		'target': 'org.springframework.security: spring-security-web: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-catastro-consumption: 2.0.1',
+		'target': 'org.springframework.security: spring-security-core: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-catastro-consumption: 2.0.1',
+		'target': 'es.juntadeandalucia.cfv: c-persistence: 1.3.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-catastro-consumption: 2.0.1',
+		'target': 'commons-collections: commons-collections: 3.2.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-catastro-consumption: 2.0.1',
+		'target': 'commons-beanutils: commons-beanutils: 1.9.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-catastro-consumption: 2.0.1',
+		'target': 'commons-io: commons-io: 1.3.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-catastro-consumption: 2.0.1',
+		'target': 'commons-logging: commons-logging: 1.1.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-catastro-consumption: 2.0.1',
+		'target': 'log4j: log4j: 1.2.16',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-catastro-consumption: 2.0.1',
+		'target': 'net.sf.dozer: dozer: 5.5.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-catastro-consumption: 2.0.1',
+		'target': 'javax.servlet: jstl: 1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-catastro-consumption: 2.0.1',
+		'target': 'com.sun.faces: jsf-impl: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-catastro-consumption: 2.0.1',
+		'target': 'com.sun.faces: jsf-api: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-catastro-consumption: 2.0.1',
+		'target': 'org.primefaces.themes: redmond: 1.0.9',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-catastro-consumption: 2.0.1',
+		'target': 'org.primefaces: primefaces: 5.3',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-catastro-consumption: 2.0.1',
+		'target': 'org.apache.santuario: xmlsec: 1.5.7',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-catastro-consumption: 2.0.1',
+		'target': 'org.apache.ws.security: wss4j: 1.6.17',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-catastro-consumption: 2.0.1',
+		'target': 'commons-codec: commons-codec: 1.7',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-catastro-consumption: 2.0.1',
+		'target': 'es.juntadeandalucia.cfv: c-business-log: 1.0.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-catastro-consumption: 2.0.1',
+		'target': 'xml-apis: xml-apis: 1.4.01',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-catastro-consumption: 2.0.1',
+		'target': 'es.juntadeandalucia.cfv: ws-client-catastro: 2.0.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-business-log: 1.0.1',
+		'target': 'com.mchange: c3p0: 0.9.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-business-log: 1.0.1',
+		'target': 'org.springframework: spring-orm: 4.3.2.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-business-log: 1.0.1',
+		'target': 'org.springframework: spring-web: 4.3.2.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-business-log: 1.0.1',
+		'target': 'org.springframework.security: spring-security-acl: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-business-log: 1.0.1',
+		'target': 'org.springframework.security: spring-security-config: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-business-log: 1.0.1',
+		'target': 'org.springframework.security: spring-security-web: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-business-log: 1.0.1',
+		'target': 'org.springframework.security: spring-security-core: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-business-log: 1.0.1',
+		'target': 'es.juntadeandalucia.cfv: c-persistence: 1.3.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-business-log: 1.0.1',
+		'target': 'commons-collections: commons-collections: 3.2.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-business-log: 1.0.1',
+		'target': 'commons-beanutils: commons-beanutils: 1.9.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-business-log: 1.0.1',
+		'target': 'commons-io: commons-io: 1.3.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-business-log: 1.0.1',
+		'target': 'commons-logging: commons-logging: 1.1.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-business-log: 1.0.1',
+		'target': 'log4j: log4j: 1.2.16',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-business-log: 1.0.1',
+		'target': 'net.sf.dozer: dozer: 5.5.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-business-log: 1.0.1',
+		'target': 'javax.servlet: jstl: 1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-business-log: 1.0.1',
+		'target': 'com.sun.faces: jsf-impl: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-business-log: 1.0.1',
+		'target': 'com.sun.faces: jsf-api: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-business-log: 1.0.1',
+		'target': 'org.primefaces.themes: redmond: 1.0.9',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-business-log: 1.0.1',
+		'target': 'org.primefaces: primefaces: 5.3',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-business-log: 1.0.1',
+		'target': 'org.apache.santuario: xmlsec: 1.5.7',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-business-log: 1.0.1',
+		'target': 'org.apache.ws.security: wss4j: 1.6.17',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-business-log: 1.0.1',
+		'target': 'commons-codec: commons-codec: 1.7',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-business-log: 1.0.1',
+		'target': 'es.juntadeandalucia.cfv: c-base: 3.0.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-subvention: 1.0.1',
+		'target': 'org.apache.geronimo.specs: geronimo-javamail_1.4_spec: 1.7.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-subvention: 1.0.1',
+		'target': 'es.juntadeandalucia.cfv: c-application: 1.0.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pima-consumption: 1.0.1',
+		'target': 'es.juntadeandalucia.cfv.ge.ws: ge-ws-client: 1.1.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pima-consumption: 1.0.1',
+		'target': 'es.juntadeandalucia.cfv.ge.ws: ge-ws-client-GE: 1.1.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pima-consumption: 1.0.1',
+		'target': 'es.juntadeandalucia.cfv: c-base: 3.0.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base: 3.0.1',
+		'target': 'com.mchange: c3p0: 0.9.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base: 3.0.1',
+		'target': 'org.springframework: spring-orm: 4.3.2.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base: 3.0.1',
+		'target': 'org.springframework: spring-web: 4.3.2.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base: 3.0.1',
+		'target': 'org.springframework.security: spring-security-acl: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base: 3.0.1',
+		'target': 'org.springframework.security: spring-security-config: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base: 3.0.1',
+		'target': 'org.springframework.security: spring-security-web: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base: 3.0.1',
+		'target': 'org.springframework.security: spring-security-core: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base: 3.0.1',
+		'target': 'es.juntadeandalucia.cfv: c-persistence: 1.3.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base: 3.0.1',
+		'target': 'commons-collections: commons-collections: 3.2.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base: 3.0.1',
+		'target': 'commons-beanutils: commons-beanutils: 1.9.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base: 3.0.1',
+		'target': 'commons-io: commons-io: 1.3.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base: 3.0.1',
+		'target': 'commons-logging: commons-logging: 1.1.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base: 3.0.1',
+		'target': 'log4j: log4j: 1.2.16',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base: 3.0.1',
+		'target': 'net.sf.dozer: dozer: 5.5.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base: 3.0.1',
+		'target': 'javax.servlet: jstl: 1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base: 3.0.1',
+		'target': 'com.sun.faces: jsf-impl: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base: 3.0.1',
+		'target': 'com.sun.faces: jsf-api: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base: 3.0.1',
+		'target': 'org.primefaces.themes: redmond: 1.0.9',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base: 3.0.1',
+		'target': 'org.primefaces: primefaces: 5.3',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base: 3.0.1',
+		'target': 'org.apache.santuario: xmlsec: 1.5.7',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base: 3.0.1',
+		'target': 'org.apache.ws.security: wss4j: 1.6.17',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base: 3.0.1',
+		'target': 'commons-codec: commons-codec: 1.7',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-validation: 2.0.1',
+		'target': 'es.juntadeandalucia.cfv: c-field: 2.0.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-field: 2.0.1',
+		'target': 'com.mchange: c3p0: 0.9.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-field: 2.0.1',
+		'target': 'org.springframework: spring-orm: 4.3.2.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-field: 2.0.1',
+		'target': 'org.springframework: spring-web: 4.3.2.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-field: 2.0.1',
+		'target': 'org.springframework.security: spring-security-acl: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-field: 2.0.1',
+		'target': 'org.springframework.security: spring-security-config: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-field: 2.0.1',
+		'target': 'org.springframework.security: spring-security-web: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-field: 2.0.1',
+		'target': 'org.springframework.security: spring-security-core: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-field: 2.0.1',
+		'target': 'es.juntadeandalucia.cfv: c-persistence: 1.3.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-field: 2.0.1',
+		'target': 'commons-collections: commons-collections: 3.2.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-field: 2.0.1',
+		'target': 'commons-beanutils: commons-beanutils: 1.9.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-field: 2.0.1',
+		'target': 'commons-io: commons-io: 1.3.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-field: 2.0.1',
+		'target': 'commons-logging: commons-logging: 1.1.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-field: 2.0.1',
+		'target': 'log4j: log4j: 1.2.16',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-field: 2.0.1',
+		'target': 'net.sf.dozer: dozer: 5.5.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-field: 2.0.1',
+		'target': 'javax.servlet: jstl: 1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-field: 2.0.1',
+		'target': 'com.sun.faces: jsf-impl: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-field: 2.0.1',
+		'target': 'com.sun.faces: jsf-api: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-field: 2.0.1',
+		'target': 'org.primefaces.themes: redmond: 1.0.9',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-field: 2.0.1',
+		'target': 'org.primefaces: primefaces: 5.3',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-field: 2.0.1',
+		'target': 'org.apache.santuario: xmlsec: 1.5.7',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-field: 2.0.1',
+		'target': 'org.apache.ws.security: wss4j: 1.6.17',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-field: 2.0.1',
+		'target': 'commons-codec: commons-codec: 1.7',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-field: 2.0.1',
+		'target': 'es.juntadeandalucia.cfv: c-application: 1.0.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-application: 1.0.1',
+		'target': 'com.mchange: c3p0: 0.9.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-application: 1.0.1',
+		'target': 'org.springframework: spring-orm: 4.3.2.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-application: 1.0.1',
+		'target': 'org.springframework: spring-web: 4.3.2.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-application: 1.0.1',
+		'target': 'org.springframework.security: spring-security-acl: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-application: 1.0.1',
+		'target': 'org.springframework.security: spring-security-config: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-application: 1.0.1',
+		'target': 'org.springframework.security: spring-security-web: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-application: 1.0.1',
+		'target': 'org.springframework.security: spring-security-core: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-application: 1.0.1',
+		'target': 'es.juntadeandalucia.cfv: c-persistence: 1.3.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-application: 1.0.1',
+		'target': 'commons-collections: commons-collections: 3.2.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-application: 1.0.1',
+		'target': 'commons-beanutils: commons-beanutils: 1.9.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-application: 1.0.1',
+		'target': 'commons-io: commons-io: 1.3.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-application: 1.0.1',
+		'target': 'commons-logging: commons-logging: 1.1.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-application: 1.0.1',
+		'target': 'log4j: log4j: 1.2.16',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-application: 1.0.1',
+		'target': 'net.sf.dozer: dozer: 5.5.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-application: 1.0.1',
+		'target': 'javax.servlet: jstl: 1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-application: 1.0.1',
+		'target': 'com.sun.faces: jsf-impl: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-application: 1.0.1',
+		'target': 'com.sun.faces: jsf-api: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-application: 1.0.1',
+		'target': 'org.primefaces.themes: redmond: 1.0.9',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-application: 1.0.1',
+		'target': 'org.primefaces: primefaces: 5.3',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-application: 1.0.1',
+		'target': 'org.apache.santuario: xmlsec: 1.5.7',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-application: 1.0.1',
+		'target': 'org.apache.ws.security: wss4j: 1.6.17',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-application: 1.0.1',
+		'target': 'commons-codec: commons-codec: 1.7',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-application: 1.0.1',
+		'target': 'es.juntadeandalucia.cfv: c-base: 3.0.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0',
+		'target': 'com.mchange: c3p0: 0.9.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0',
+		'target': 'org.springframework: spring-orm: 4.3.2.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0',
+		'target': 'org.springframework: spring-web: 4.3.2.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0',
+		'target': 'org.springframework.security: spring-security-acl: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0',
+		'target': 'org.springframework.security: spring-security-config: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0',
+		'target': 'org.springframework.security: spring-security-web: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0',
+		'target': 'org.springframework.security: spring-security-core: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0',
+		'target': 'es.juntadeandalucia.cfv: c-persistence: 1.3.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0',
+		'target': 'commons-collections: commons-collections: 3.2.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0',
+		'target': 'commons-beanutils: commons-beanutils: 1.9.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0',
+		'target': 'commons-io: commons-io: 1.3.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0',
+		'target': 'commons-logging: commons-logging: 1.1.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0',
+		'target': 'log4j: log4j: 1.2.16',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0',
+		'target': 'net.sf.dozer: dozer: 5.5.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0',
+		'target': 'javax.servlet: jstl: 1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0',
+		'target': 'com.sun.faces: jsf-impl: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0',
+		'target': 'com.sun.faces: jsf-api: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0',
+		'target': 'org.primefaces.themes: redmond: 1.0.9',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0',
+		'target': 'org.primefaces: primefaces: 5.3',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0',
+		'target': 'org.apache.santuario: xmlsec: 1.5.7',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0',
+		'target': 'org.apache.ws.security: wss4j: 1.6.17',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0',
+		'target': 'commons-codec: commons-codec: 1.7',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0',
+		'target': 'org.apache.httpcomponents: httpclient: 4.5.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0',
+		'target': 'es.juntadeandalucia.agua.conector: conector-credenciales: 1.1.4',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0',
+		'target': 'es.juntadeandalucia.cfv.gevi: gevi-ws-client: 2.0.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0',
+		'target': 'es.juntadeandalucia.cfv: c-pima-consumption: 1.0.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0',
+		'target': 'es.juntadeandalucia.cfv: c-subvention: 1.0.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pima-consumption: 1.0.2',
+		'target': 'com.mchange: c3p0: 0.9.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pima-consumption: 1.0.2',
+		'target': 'org.springframework: spring-orm: 4.3.2.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pima-consumption: 1.0.2',
+		'target': 'org.springframework: spring-web: 4.3.2.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pima-consumption: 1.0.2',
+		'target': 'org.springframework.security: spring-security-acl: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pima-consumption: 1.0.2',
+		'target': 'org.springframework.security: spring-security-config: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pima-consumption: 1.0.2',
+		'target': 'org.springframework.security: spring-security-web: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pima-consumption: 1.0.2',
+		'target': 'org.springframework.security: spring-security-core: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pima-consumption: 1.0.2',
+		'target': 'es.juntadeandalucia.cfv: c-persistence: 1.3.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pima-consumption: 1.0.2',
+		'target': 'commons-collections: commons-collections: 3.2.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pima-consumption: 1.0.2',
+		'target': 'commons-beanutils: commons-beanutils: 1.9.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pima-consumption: 1.0.2',
+		'target': 'commons-io: commons-io: 1.3.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pima-consumption: 1.0.2',
+		'target': 'commons-logging: commons-logging: 1.1.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pima-consumption: 1.0.2',
+		'target': 'log4j: log4j: 1.2.16',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pima-consumption: 1.0.2',
+		'target': 'net.sf.dozer: dozer: 5.5.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pima-consumption: 1.0.2',
+		'target': 'javax.servlet: jstl: 1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pima-consumption: 1.0.2',
+		'target': 'com.sun.faces: jsf-impl: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pima-consumption: 1.0.2',
+		'target': 'com.sun.faces: jsf-api: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pima-consumption: 1.0.2',
+		'target': 'org.primefaces.themes: redmond: 1.0.9',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pima-consumption: 1.0.2',
+		'target': 'org.primefaces: primefaces: 5.3',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pima-consumption: 1.0.2',
+		'target': 'org.apache.santuario: xmlsec: 1.5.7',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pima-consumption: 1.0.2',
+		'target': 'org.apache.ws.security: wss4j: 1.6.17',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pima-consumption: 1.0.2',
+		'target': 'commons-codec: commons-codec: 1.7',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pima-consumption: 1.0.2',
+		'target': 'es.juntadeandalucia.cfv.ge.ws: ge-ws-client: 1.5.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pima-consumption: 1.0.2',
+		'target': 'es.juntadeandalucia.cfv.ge.ws: ge-ws-client-GE: 1.5.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pima-consumption: 1.0.2',
+		'target': 'es.juntadeandalucia.cfv: c-base: 3.0.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-pima-consumption: 1.0.2',
+		'target': 'xml-apis: xml-apis: 1.4.01',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.0.3',
+		'target': 'com.mchange: c3p0: 0.9.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.0.3',
+		'target': 'org.springframework: spring-orm: 4.3.2.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.0.3',
+		'target': 'org.springframework: spring-web: 4.3.2.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.0.3',
+		'target': 'org.springframework.security: spring-security-acl: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.0.3',
+		'target': 'org.springframework.security: spring-security-config: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.0.3',
+		'target': 'org.springframework.security: spring-security-web: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.0.3',
+		'target': 'org.springframework.security: spring-security-core: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.0.3',
+		'target': 'es.juntadeandalucia.cfv: c-persistence: 1.3.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.0.3',
+		'target': 'commons-collections: commons-collections: 3.2.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.0.3',
+		'target': 'commons-beanutils: commons-beanutils: 1.9.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.0.3',
+		'target': 'commons-io: commons-io: 1.3.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.0.3',
+		'target': 'commons-logging: commons-logging: 1.1.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.0.3',
+		'target': 'log4j: log4j: 1.2.16',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.0.3',
+		'target': 'net.sf.dozer: dozer: 5.5.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.0.3',
+		'target': 'javax.servlet: jstl: 1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.0.3',
+		'target': 'com.sun.faces: jsf-impl: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.0.3',
+		'target': 'com.sun.faces: jsf-api: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.0.3',
+		'target': 'org.primefaces.themes: redmond: 1.0.9',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.0.3',
+		'target': 'org.primefaces: primefaces: 5.3',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.0.3',
+		'target': 'org.apache.santuario: xmlsec: 1.5.7',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.0.3',
+		'target': 'org.apache.ws.security: wss4j: 1.6.17',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.0.3',
+		'target': 'commons-codec: commons-codec: 1.7',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.0.3',
+		'target': 'org.apache.httpcomponents: httpclient: 4.5.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.0.3',
+		'target': 'es.juntadeandalucia.agua.conector: conector-credenciales: 1.1.4',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.0.3',
+		'target': 'es.juntadeandalucia.cfv.gevi: gevi-ws-client: 2.0.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.0.3',
+		'target': 'es.juntadeandalucia.cfv: c-pima-consumption: 1.0.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.0.3',
+		'target': 'es.juntadeandalucia.cfv: c-subvention: 1.0.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-validation: 3.0.1',
+		'target': 'com.mchange: c3p0: 0.9.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-validation: 3.0.1',
+		'target': 'org.springframework: spring-orm: 4.3.2.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-validation: 3.0.1',
+		'target': 'org.springframework: spring-web: 4.3.2.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-validation: 3.0.1',
+		'target': 'org.springframework.security: spring-security-acl: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-validation: 3.0.1',
+		'target': 'org.springframework.security: spring-security-config: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-validation: 3.0.1',
+		'target': 'org.springframework.security: spring-security-web: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-validation: 3.0.1',
+		'target': 'org.springframework.security: spring-security-core: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-validation: 3.0.1',
+		'target': 'es.juntadeandalucia.cfv: c-persistence: 1.3.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-validation: 3.0.1',
+		'target': 'commons-collections: commons-collections: 3.2.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-validation: 3.0.1',
+		'target': 'commons-beanutils: commons-beanutils: 1.9.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-validation: 3.0.1',
+		'target': 'commons-io: commons-io: 1.3.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-validation: 3.0.1',
+		'target': 'commons-logging: commons-logging: 1.1.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-validation: 3.0.1',
+		'target': 'log4j: log4j: 1.2.16',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-validation: 3.0.1',
+		'target': 'net.sf.dozer: dozer: 5.5.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-validation: 3.0.1',
+		'target': 'javax.servlet: jstl: 1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-validation: 3.0.1',
+		'target': 'com.sun.faces: jsf-impl: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-validation: 3.0.1',
+		'target': 'com.sun.faces: jsf-api: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-validation: 3.0.1',
+		'target': 'org.primefaces.themes: redmond: 1.0.9',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-validation: 3.0.1',
+		'target': 'org.primefaces: primefaces: 5.3',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-validation: 3.0.1',
+		'target': 'org.apache.santuario: xmlsec: 1.5.7',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-validation: 3.0.1',
+		'target': 'org.apache.ws.security: wss4j: 1.6.17',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-validation: 3.0.1',
+		'target': 'commons-codec: commons-codec: 1.7',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-validation: 3.0.1',
+		'target': 'es.juntadeandalucia.cfv: c-field: 2.0.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-unique-identifier-lib: 1.0.0',
+		'target': 'es.juntadeandalucia.cfv: c-base-persistence: 4.0.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0-SNAPSHOT',
+		'target': 'com.mchange: c3p0: 0.9.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0-SNAPSHOT',
+		'target': 'org.springframework: spring-orm: 4.3.2.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0-SNAPSHOT',
+		'target': 'org.springframework: spring-web: 4.3.2.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0-SNAPSHOT',
+		'target': 'org.springframework.security: spring-security-acl: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0-SNAPSHOT',
+		'target': 'org.springframework.security: spring-security-config: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0-SNAPSHOT',
+		'target': 'org.springframework.security: spring-security-web: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0-SNAPSHOT',
+		'target': 'org.springframework.security: spring-security-core: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0-SNAPSHOT',
+		'target': 'es.juntadeandalucia.cfv: c-persistence: 1.3.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0-SNAPSHOT',
+		'target': 'commons-collections: commons-collections: 3.2.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0-SNAPSHOT',
+		'target': 'commons-beanutils: commons-beanutils: 1.9.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0-SNAPSHOT',
+		'target': 'commons-io: commons-io: 1.3.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0-SNAPSHOT',
+		'target': 'commons-logging: commons-logging: 1.1.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0-SNAPSHOT',
+		'target': 'log4j: log4j: 1.2.16',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0-SNAPSHOT',
+		'target': 'net.sf.dozer: dozer: 5.5.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0-SNAPSHOT',
+		'target': 'javax.servlet: jstl: 1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0-SNAPSHOT',
+		'target': 'com.sun.faces: jsf-impl: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0-SNAPSHOT',
+		'target': 'com.sun.faces: jsf-api: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0-SNAPSHOT',
+		'target': 'org.primefaces.themes: redmond: 1.0.9',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0-SNAPSHOT',
+		'target': 'org.primefaces: primefaces: 5.3',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0-SNAPSHOT',
+		'target': 'org.apache.santuario: xmlsec: 1.5.7',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0-SNAPSHOT',
+		'target': 'org.apache.ws.security: wss4j: 1.6.17',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0-SNAPSHOT',
+		'target': 'commons-codec: commons-codec: 1.7',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0-SNAPSHOT',
+		'target': 'org.apache.httpcomponents: httpclient: 4.5.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0-SNAPSHOT',
+		'target': 'es.juntadeandalucia.agua.conector: conector-credenciales: 1.1.4',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0-SNAPSHOT',
+		'target': 'es.juntadeandalucia.cfv.gevi: gevi-ws-client: 2.0.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0-SNAPSHOT',
+		'target': 'es.juntadeandalucia.cfv: c-pima-consumption: 1.0.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-user-management: 1.1.0-SNAPSHOT',
+		'target': 'es.juntadeandalucia.cfv: c-subvention: 1.0.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-application: 2.0.0-SNAPSHOT',
+		'target': 'es.juntadeandalucia.cfv: c-base-web: 4.0.0-SNAPSHOT',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-web: 4.0.0-SNAPSHOT',
+		'target': 'org.springframework.security: spring-security-acl: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-web: 4.0.0-SNAPSHOT',
+		'target': 'org.springframework.security: spring-security-config: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-web: 4.0.0-SNAPSHOT',
+		'target': 'org.springframework.security: spring-security-web: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-web: 4.0.0-SNAPSHOT',
+		'target': 'org.springframework.security: spring-security-core: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-web: 4.0.0-SNAPSHOT',
+		'target': 'javax.servlet: jstl: 1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-web: 4.0.0-SNAPSHOT',
+		'target': 'com.sun.faces: jsf-impl: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-web: 4.0.0-SNAPSHOT',
+		'target': 'com.sun.faces: jsf-api: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-web: 4.0.0-SNAPSHOT',
+		'target': 'org.primefaces.themes: redmond: 1.0.9',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-web: 4.0.0-SNAPSHOT',
+		'target': 'org.primefaces: primefaces: 5.3',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-web: 4.0.0-SNAPSHOT',
+		'target': 'es.juntadeandalucia.cfv: c-base-validation: 1.0.0-SNAPSHOT',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-web: 4.0.0-SNAPSHOT',
+		'target': 'es.juntadeandalucia.cfv: c-base-persistence: 4.0.0-SNAPSHOT',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-catastro-consumption: 3.0.0',
+		'target': 'xml-apis: xml-apis: 1.4.01',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-catastro-consumption: 3.0.0',
+		'target': 'es.juntadeandalucia.cfv: ws-client-catastro: 2.0.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-catastro-consumption: 3.0.0',
+		'target': 'es.juntadeandalucia.cfv: c-base-web: 4.1.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-catastro-consumption: 3.0.0',
+		'target': 'es.juntadeandalucia.cfv: c-business-log-lib: 2.0.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-web: 4.1.0',
+		'target': 'org.springframework.security: spring-security-acl: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-web: 4.1.0',
+		'target': 'org.springframework.security: spring-security-config: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-web: 4.1.0',
+		'target': 'org.springframework.security: spring-security-web: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-web: 4.1.0',
+		'target': 'org.springframework.security: spring-security-core: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-web: 4.1.0',
+		'target': 'javax.servlet: jstl: 1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-web: 4.1.0',
+		'target': 'com.sun.faces: jsf-impl: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-web: 4.1.0',
+		'target': 'com.sun.faces: jsf-api: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-web: 4.1.0',
+		'target': 'org.primefaces.themes: redmond: 1.0.9',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-web: 4.1.0',
+		'target': 'org.primefaces: primefaces: 5.3',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-web: 4.1.0',
+		'target': 'es.juntadeandalucia.cfv: c-base-validation: 1.1.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-web: 4.1.0',
+		'target': 'es.juntadeandalucia.cfv: c-base-persistence: 4.0.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-business-log-lib: 2.0.0',
+		'target': 'es.juntadeandalucia.cfv: c-base-persistence: 4.0.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-persistence: 4.1.0',
+		'target': 'com.mchange: c3p0: 0.9.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-persistence: 4.1.0',
+		'target': 'commons-beanutils: commons-beanutils: 1.9.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-persistence: 4.1.0',
+		'target': 'net.sf.dozer: dozer: 5.5.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-persistence: 4.1.0',
+		'target': 'org.springframework: spring-orm: 4.3.5.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-persistence: 4.1.0',
+		'target': 'es.juntadeandalucia.cfv: c-persistence: 1.3.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-persistence: 4.1.0',
+		'target': 'es.juntadeandalucia.cfv: c-base-core: 4.1.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-application: 2.0.0',
+		'target': 'es.juntadeandalucia.cfv: c-base-web: 4.0.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-field: 3.0.0',
+		'target': 'es.juntadeandalucia.cfv: c-application: 2.0.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-core: 4.1.0',
+		'target': 'org.projectlombok: lombok: 1.16.6',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-core: 4.1.0',
+		'target': 'org.apache.santuario: xmlsec: 1.5.7',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-core: 4.1.0',
+		'target': 'org.apache.ws.security: wss4j: 1.6.17',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-core: 4.1.0',
+		'target': 'com.google.guava: guava: 21.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-core: 4.1.0',
+		'target': 'log4j: log4j: 1.2.16',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-core: 4.1.0',
+		'target': 'org.apache.commons: commons-lang3: 3.5',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-core: 4.1.0',
+		'target': 'commons-codec: commons-codec: 1.7',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-core: 4.1.0',
+		'target': 'commons-collections: commons-collections: 3.2.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-core: 4.1.0',
+		'target': 'commons-logging: commons-logging: 1.1.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-core: 4.1.0',
+		'target': 'commons-io: commons-io: 1.3.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-core: 4.1.0',
+		'target': 'org.springframework: spring-webmvc: 4.3.5.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-base-core: 4.1.0',
+		'target': 'org.springframework: spring-context: 4.3.5.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-file: 1.0.0',
+		'target': 'es.juntadeandalucia.cfv: c-base-web: 4.1.0',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-parent: 3.0.0',
+		'target': 'com.mchange: c3p0: 0.9.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-parent: 3.0.0',
+		'target': 'org.springframework: spring-orm: 4.3.2.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-parent: 3.0.0',
+		'target': 'org.springframework: spring-web: 4.3.2.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-parent: 3.0.0',
+		'target': 'org.springframework.security: spring-security-acl: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-parent: 3.0.0',
+		'target': 'org.springframework.security: spring-security-config: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-parent: 3.0.0',
+		'target': 'org.springframework.security: spring-security-web: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-parent: 3.0.0',
+		'target': 'org.springframework.security: spring-security-core: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-parent: 3.0.0',
+		'target': 'es.juntadeandalucia.cfv: c-persistence: 1.3.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-parent: 3.0.0',
+		'target': 'commons-collections: commons-collections: 3.2.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-parent: 3.0.0',
+		'target': 'commons-beanutils: commons-beanutils: 1.9.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-parent: 3.0.0',
+		'target': 'commons-io: commons-io: 1.3.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-parent: 3.0.0',
+		'target': 'commons-logging: commons-logging: 1.1.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-parent: 3.0.0',
+		'target': 'log4j: log4j: 1.2.16',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-parent: 3.0.0',
+		'target': 'net.sf.dozer: dozer: 5.5.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-parent: 3.0.0',
+		'target': 'javax.servlet: jstl: 1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-parent: 3.0.0',
+		'target': 'com.sun.faces: jsf-impl: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-parent: 3.0.0',
+		'target': 'com.sun.faces: jsf-api: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-parent: 3.0.0',
+		'target': 'org.primefaces.themes: redmond: 1.0.9',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-parent: 3.0.0',
+		'target': 'org.primefaces: primefaces: 5.3',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-parent: 3.0.0',
+		'target': 'org.apache.santuario: xmlsec: 1.5.7',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-parent: 3.0.0',
+		'target': 'org.apache.ws.security: wss4j: 1.6.17',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-parent: 3.0.0',
+		'target': 'commons-codec: commons-codec: 1.7',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-parent: 3.0.1',
+		'target': 'com.mchange: c3p0: 0.9.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-parent: 3.0.1',
+		'target': 'org.springframework: spring-orm: 4.3.2.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-parent: 3.0.1',
+		'target': 'org.springframework: spring-web: 4.3.2.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-parent: 3.0.1',
+		'target': 'org.springframework.security: spring-security-acl: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-parent: 3.0.1',
+		'target': 'org.springframework.security: spring-security-config: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-parent: 3.0.1',
+		'target': 'org.springframework.security: spring-security-web: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-parent: 3.0.1',
+		'target': 'org.springframework.security: spring-security-core: 4.1.3.RELEASE',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-parent: 3.0.1',
+		'target': 'es.juntadeandalucia.cfv: c-persistence: 1.3.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-parent: 3.0.1',
+		'target': 'commons-collections: commons-collections: 3.2.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-parent: 3.0.1',
+		'target': 'commons-beanutils: commons-beanutils: 1.9.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-parent: 3.0.1',
+		'target': 'commons-io: commons-io: 1.3.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-parent: 3.0.1',
+		'target': 'commons-logging: commons-logging: 1.1.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-parent: 3.0.1',
+		'target': 'log4j: log4j: 1.2.16',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-parent: 3.0.1',
+		'target': 'net.sf.dozer: dozer: 5.5.1',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-parent: 3.0.1',
+		'target': 'javax.servlet: jstl: 1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-parent: 3.0.1',
+		'target': 'com.sun.faces: jsf-impl: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-parent: 3.0.1',
+		'target': 'com.sun.faces: jsf-api: 2.1.2',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-parent: 3.0.1',
+		'target': 'org.primefaces.themes: redmond: 1.0.9',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-parent: 3.0.1',
+		'target': 'org.primefaces: primefaces: 5.3',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-parent: 3.0.1',
+		'target': 'org.apache.santuario: xmlsec: 1.5.7',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-parent: 3.0.1',
+		'target': 'org.apache.ws.security: wss4j: 1.6.17',
+		'value': 1
+	},
+	{
+		'source': 'es.juntadeandalucia.cfv: c-parent: 3.0.1',
+		'target': 'commons-codec: commons-codec: 1.7',
+		'value': 1
+	}]
+}
